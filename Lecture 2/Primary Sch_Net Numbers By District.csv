@@ -1,0 +1,270 @@
+Sch_Net_No,District Areas,Districts
+11,CENTRAL,Hong Kong Island
+11,THE PEAK,Hong Kong Island
+11,SHEUNG WAN,Hong Kong Island
+11,SAI YING PUN,Hong Kong Island
+11,SHEK TONG TSUI,Hong Kong Island
+11,KENNEDY TOWN,Hong Kong Island
+12,WAN CHAI,Hong Kong Island
+12,CAUSEWAY BAY ,Hong Kong Island
+12,SO KON PO,Hong Kong Island
+12,HAPPY VALLEY,Hong Kong Island
+12,TAI HANG,Hong Kong Island
+12,JARDINE’S LOOKOUT,Hong Kong Island
+14,NORTH POINT,Hong Kong Island
+14,QUARRY BAY,Hong Kong Island
+14,LEI KING WAN,Hong Kong Island
+16,SHAU KEI WAN,Hong Kong Island
+16,SAI WAN HO,Hong Kong Island
+16,SHEK O,Hong Kong Island
+16,TAI LONG WAN,Hong Kong Island
+16,HENG FA CHUEN,Hong Kong Island
+16,CHAI WAN,Hong Kong Island
+16,SIU SAI WAN,Hong Kong Island
+18,POK FU LAM,Hong Kong Island
+18,BAGUIO VILLA,Hong Kong Island
+18,ABERDEEN,Hong Kong Island
+18,TIN WAN ,Hong Kong Island
+18,SHEK PAI WAN,Hong Kong Island
+31,TSIM SHA TSUI,Kowloon
+31,JORDAN ROAD,Kowloon
+31,YAU MA TEI,Kowloon
+31,KING’S PARK,Kowloon
+32,MONG KOK,Kowloon
+32,TAI KOK TSUI,Kowloon
+34,TO KWA WAN,Kowloon
+34,LOK MAN SUN CHUEN,Kowloon
+34,MA TAU KOK,Kowloon
+34,HILLVILLE TERRACE,Kowloon
+34,HORAE PLACE,Kowloon
+34,JUBILANT PLACE,Kowloon
+34,SKY TOWER,Kowloon
+34,OI MAN ESTATE,Kowloon
+34,HO MAN TIN ESTATE,Kowloon
+34,CHUN MAN COURT,Kowloon
+34,DRAGON VIEW,Kowloon
+34,CASCADES,Kowloon
+34,KWUN HEI COURT,Kowloon
+34,HO MAN TIN,Kowloon
+34,MA TAU WAI ESTATE,Kowloon
+34,CHUN SEEN MEI CHUEN,Kowloon
+34,KADOORIE HILL,Kowloon
+34,WATERLOO ROAD HILL,Kowloon
+34,MAJESTIC PARK,Kowloon
+34,PARC REGAL,Kowloon
+34,GRAND WATERFRONT,Kowloon
+34,KAI CHING ESTATE,Kowloon
+34,TAK LONG ESTATE,Kowloon
+35,HUNG HOM,Kowloon
+35,TAI WAN SHAN,Kowloon
+35,WHAMPOA ESTATE,Kowloon
+35,WHAMPOA GARDEN,Kowloon
+35,KA WAI CHUEN,Kowloon
+35,LAGUNA VERDE,Kowloon
+35,ROYAL PENINSULA,Kowloon
+35,"HARBOURFRONT LANDMARK,",Kowloon
+35,THE METROPOLIS RESIDENCE,Kowloon
+40,LAI CHI KOK,Kowloon
+40,CHEUNG SHA WAN,Kowloon
+40,SHAM SHUI PO,Kowloon
+40,SHEK KIP MEI,Kowloon
+40,YAU YAT TSUEN,Kowloon
+41,KOWLOON TONG,Kowloon
+41,BEACON HILL ROAD,Kowloon
+41,BROADCAST DRIVE,Kowloon
+41,KOWLOON CITY,Kowloon
+41,MEI TUNG ESTATE,Kowloon
+43,TUNG TAU,Kowloon
+43,WONG TAI SIN,Kowloon
+43,SAN PO KONG,Kowloon
+43,CHUK YUEN,Kowloon
+43,WANG TAU HOM,Kowloon
+43,LOK FU,Kowloon
+43,FU KEUNG COURT,Kowloon
+43,TIN MA COURT,Kowloon
+43,KING TAI COURT,Kowloon
+45,FU SHAN ESTATE,Kowloon
+45,RHYTHM GARDEN,Kowloon
+45,CHOI HUNG ESTATE,Kowloon
+45,CHOI WAN ESTATE,Kowloon
+45,CHOI FAI ESTATE,Kowloon
+45,CHOI FUNG COURT,Kowloon
+45,KING SHAN COURT,Kowloon
+45,DIAMOND HILL,Kowloon
+45,LUNG POON COURT,Kowloon
+45,FUNG TAK ESTATE,Kowloon
+45,FUNG WONG SAN TSUEN,Kowloon
+45,TSZ WAN SHAN,Kowloon
+45,REGENT ON THE HILL,Kowloon
+45,BEL AIR HEIGHTS,Kowloon
+45,KINGSFORD TERRACE,Kowloon
+45,SCENIC VIEW,Kowloon
+46,KAI YIP ESTATE,Kowloon
+46,PING SHEK ESTATE,Kowloon
+46,RICHLAND GARDENS,Kowloon
+46,KOWLOON BAY,Kowloon
+46,LOWER NGAU TAU KOK ESTATE,Kowloon
+46,AMOY GARDEN,Kowloon
+46,JORDAN VALLEY,Kowloon
+46,CHOI HA ESTATE,Kowloon
+46,SHUN CHI COURT,Kowloon
+46,SHUN LEE ESTATE,Kowloon
+46,SHUN ON ESTATE,Kowloon
+46,SHUN TIN ESTATE,Kowloon
+46,CHOI YING ESTATE,Kowloon
+46,CHOI TAK ESTATE,Kowloon
+46,CHOI FOOK ESTATE,Kowloon
+48,SAU MAU PING,Kowloon
+48,UPPER NGAU TAU KOK ESTATE,Kowloon
+48,LOK WAH ESTATE,Kowloon
+48,YUE MAN SQUARE,Kowloon
+48,WO LOK ESTATE,Kowloon
+48,TSUI PING ESTATE,Kowloon
+48,LAM TIN,Kowloon
+48,LAGUNA CITY,Kowloon
+48,CHA KWO LING,Kowloon
+48,YAU TONG,Kowloon
+48,LEI YUE MUN,Kowloon
+48,SCENEWAY GARDEN,Kowloon
+48,MA YAU TONG,Kowloon
+48,ON TAT ESTATE,Kowloon
+62,TSING LUNG TAU,New Territories & Island
+62,SHAM TSENG,New Territories & Island
+62,CHAI WAN KOK,New Territories & Island
+62,MA WAN,New Territories & Island
+62,NORTH-EAST LANTAU,New Territories & Island
+62,TING KAU,New Territories & Island
+62,YAU KOM TAU,New Territories & Island
+62,BELVEDERE GARDEN,New Territories & Island
+62,SHEK WAI KOK,New Territories & Island
+62,CHEUNG SHAN,New Territories & Island
+62,LUK YEUNG SUN CHUEN,New Territories & Island
+62,RIVIERA GARDENS,New Territories & Island
+64,WO YI HOP,New Territories & Island
+64,SHEUNG KWAI CHUNG,New Territories & Island
+64,CHUNG KWAI CHUNG,New Territories & Island
+64,SHEK YAM,New Territories & Island
+64,SHEK LEI,New Territories & Island
+64,ON YAM,New Territories & Island
+64,LEI MUK SHUE,New Territories & Island
+65,LAI YIU,New Territories & Island
+65,LAI KING,New Territories & Island
+65,CHO YIU,New Territories & Island
+65,WAH YUEN CHUEN,New Territories & Island
+65,KAU WA KENG,New Territories & Island
+65,WONDERLAND VILLAS,New Territories & Island
+65,LAI CHI KOK BAY GARDEN,New Territories & Island
+65,CHUNG SHAN TERRACE,New Territories & Island
+65,HIGHLAND PARK,New Territories & Island
+65,WA LAI ESTATE,New Territories & Island
+65,TAI WO HAU,New Territories & Island
+65,KWAI SHING,New Territories & Island
+65,KWAI FONG,New Territories & Island
+65,KWAI HING,New Territories & Island
+65,HA KWAI CHUNG,New Territories & Island
+66,TSING YI,New Territories & Island
+70,TUEN MUN WEST,New Territories & Island
+70,NEIGHBOURING AREAS OF TUEN MUN FERRY PIER,New Territories & Island
+70,BUTTERFLY ESTATE,New Territories & Island
+70,WU KING ESTATE,New Territories & Island
+70,PAK KOK,New Territories & Island
+70,LUNG KWU TAN,New Territories & Island
+70,CHUNG UK TSUEN,New Territories & Island
+70,"LAM TEI, KEI LUN WAI",New Territories & Island
+70,SIU HONG COURT,New Territories & Island
+70,TAI HING ESTATE,New Territories & Island
+70,SHEK PAI TAU,New Territories & Island
+70,SHAN KING ESTATE,New Territories & Island
+70,"KAU HUI, LEUNG KING ESTATE",New Territories & Island
+70,TIN KING ESTATE,New Territories & Island
+70,KIN SANG ESTATE,New Territories & Island
+70,BOTANIA VILLA,New Territories & Island
+71,TUEN MUN EAST,New Territories & Island
+71,"FU TEI, TSENG TAU TSUEN",New Territories & Island
+71,SAN HUI,New Territories & Island
+71,YAU OI ESTATE,New Territories & Island
+71,"ON TING ESTATE,",New Territories & Island
+71,TUEN MUN TOWN PLAZA,New Territories & Island
+71,SAM SHING ESTATE,New Territories & Island
+71,SO KWUN WAT,New Territories & Island
+71,TAI LAM CHUNG,New Territories & Island
+71,PRIME VIEW GARDEN,New Territories & Island
+71,GOLD COAST,New Territories & Island
+71,FU TAI ESTATE,New Territories & Island
+72,TIN SHUI WAI,New Territories & Island
+72,PING SHAN,New Territories & Island
+72,HA TSUEN,New Territories & Island
+72,MONG TSENG,New Territories & Island
+72,LAU FAU SHAN,New Territories & Island
+72,HUNG SHUI KIU,New Territories & Island
+72,NIM WAN,New Territories & Island
+73,YUEN LONG WEST,New Territories & Island
+73,"NG UK, WANG CHAU",New Territories & Island
+73,FUNG CHI VILLAGE,New Territories & Island
+73,FRASER VILLAGE,New Territories & Island
+73,MA TIN TSUEN,New Territories & Island
+73,LUNG TIN TSUEN,New Territories & Island
+73,SHAN HA TSUEN,New Territories & Island
+73,LONG PING,New Territories & Island
+73,HUNG CHO TIN TSUEN,New Territories & Island
+73,PAK SHA TSUEN,New Territories & Island
+73,TAI TONG TSUEN,New Territories & Island
+73,YEUNG KA TSUEN,New Territories & Island
+73,MUK KIU TAU TSUEN,New Territories & Island
+73,WONG NAI TUN,New Territories & Island
+73,SHUI PIN WAI,New Territories & Island
+73,CHUN HING SAN TSUEN,New Territories & Island
+74,YUEN LONG EAST,New Territories & Island
+74,YUEN LONG TOWN CENTRE (EAST),New Territories & Island
+74,YUEN LONG KAU HUI,New Territories & Island
+74,"AU TAU, SHAN PUI",New Territories & Island
+74,SHAP PAT HEUNG,New Territories & Island
+74,NAM HANG,New Territories & Island
+74,KAM TIN,New Territories & Island
+74,PAT HEUNG,New Territories & Island
+74,SHEK KONG,New Territories & Island
+74,NAM SANG WAI,New Territories & Island
+74,TAI SANG WAI,New Territories & Island
+74,FUNG KAT HEUNG,New Territories & Island
+74,SHA PO,New Territories & Island
+74,YAU TAM MEI,New Territories & Island
+74,FAIRVIEW PARK,New Territories & Island
+74,PALM SPRINGS,New Territories & Island
+74,MAI PO,New Territories & Island
+74,SAN TIN,New Territories & Island
+74,LOK MA CHAU,New Territories & Island
+80,SHEUNG SHUI,New Territories & Island
+81,FANLING,New Territories & Island
+81,MA MEI HA,New Territories & Island
+81,TA KU LING,New Territories & Island
+83,SHA TAU KOK,New Territories & Island
+84,TAI PO,New Territories & Island
+84,TAI MEI TUK,New Territories & Island
+84,KAU LUNG HANG,New Territories & Island
+84,LAM TSUEN,New Territories & Island
+84,CHEUNG SHU TAN,New Territories & Island
+88,TAI WAI,New Territories & Island
+89,MA ON SHAN,New Territories & Island
+89,SHAP SZE HEUNG,New Territories & Island
+91,SHATIN TOWN CENTRE,New Territories & Island
+91,FO TAN,New Territories & Island
+91,MA LIU SHUI,New Territories & Island
+91,YUEN CHAU KOK,New Territories & Island
+91,CITY ONE SHATIN ,New Territories & Island
+91,SIU LEK YUEN,New Territories & Island
+91,SHEK MUN,New Territories & Island
+95,SAI KUNG,New Territories & Island
+95,LEUNG SHUEN WAN,New Territories & Island
+95,TSEUNG KWAN O,New Territories & Island
+95,TSENG LAN SHUE,New Territories & Island
+95,CLEAR WATER BAY,New Territories & Island
+96,LAMMA ISLAND,New Territories & Island
+96,PO TOI ISLAND,New Territories & Island
+97,CHEUNG CHAU,New Territories & Island
+97,SOKO ISLANDS,New Territories & Island
+98,LANTAU ISLAND (EXCLUDING NORTH-EAST LANTAU),New Territories & Island
+98,TUNG CHUNG,New Territories & Island
+99,PENG CHAU,New Territories & Island
+99,TAI PAK WAN,New Territories & Island
+99,NIM SHUE WAN,New Territories & Island
+99,DISCOVERY BAY,New Territories & Island
